@@ -1,0 +1,1 @@
+This repository serves as a online support platform for a LARP game.

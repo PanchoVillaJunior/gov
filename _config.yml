@@ -1,0 +1,4 @@
+title: Certifikáty
+plugins:
+  - jekyll-relative-links
+markdown: kramdown
