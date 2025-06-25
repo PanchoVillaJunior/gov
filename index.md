@@ -2,7 +2,8 @@
 title: Official Documents Index
 ---
 
-# Official Documents / Oficiální dokumenty
+# Oficiální dokumenty / Official Documents 
 
 - [Ústava / Constitution](./documents/constitution)
-- [Zákon č. 1 / Law No. 1](./documents/law001)
+- [Zákon č. 1 / Law No. 1/25](./documents/law125)
+- [Vládní nařízení č. 1 / Goverment Order No. 1/25](./documents/order125)
