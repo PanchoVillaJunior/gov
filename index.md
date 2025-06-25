@@ -2,14 +2,17 @@
 title: Official Documents Index
 ---
 
-# 🇲🇽 Oficiální dokumenty vydané kanceláří prezidenta / Documentos oficiales emitidos por la Oficina de la Presidencia de la República
+# 🇲🇽 Documentos oficiales emitidos por la Oficina de la Presidencia de la República
+(Vše dostupné v češtině a angličtině 🇨🇿 / 🇬🇧 All available in Czech and English)
 
 ## Constitución Política de los Estados Unidos Mexicanos
 
 - 🏛 [Ústava / Constitución](./documents/constitution)
-- 📜 [Dodatek č. 1/25 / Enmienda núm 1/25](./documents/amendment125)
+- 📜 [Dodatek číslo 1/25 / Enmienda núm 1/25](./documents/amendment125)
 
-## Constitución Política de los Estados Unidos Mexicanos
+## 📚 Legislación aplicable
 
-- ⚖️ [Zákon č. 1 / Ley núm 1/25](./documents/law125)
-- 📄 [Vládní nařízení č. 1 / Decreto gubernamental núm 1/25](./documents/order125)
+A continuación se enumeran las leyes y decretos actualmente en vigor:
+
+- ⚖️ [Zákon číslo 1 / Ley núm 1/25](./documents/law125)
+- 📄 [Vládní nařízení číslo 1 / Decreto gubernamental núm 1/25](./documents/order125)
