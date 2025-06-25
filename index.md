@@ -2,10 +2,10 @@
 title: Official Documents Index
 ---
 
-# 🇲🇽 Documentos oficiales emitidos por la Oficina de la Presidencia de la República
+# 🇲🇽 Documentos oficiales de la Oficina de la Presidencia de la República Libre Zapatista de México
 (Vše dostupné v češtině a angličtině 🇨🇿 / 🇬🇧 All available in Czech and English)
 
-## Constitución Política de los Estados Unidos Mexicanos
+## Constitución de la República Libre Zapatista de México
 
 - 🏛 [Ústava / Constitución](./documents/constitution)
 - 📜 [Dodatek číslo 1/25 / Enmienda núm 1/25](./documents/amendment125)
