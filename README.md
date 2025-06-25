@@ -1,1 +1,1 @@
-# Fictional Republic Official Documents Repository for a LARP game
+# Fictional Documents Repository for a LARP game

@@ -2,7 +2,7 @@
 title: Official Documents Index
 ---
 
-# Oficiální dokumenty / Official Documents 
+# Oficiální dokumenty vydané kanceláří prezidenta / Documentos oficiales emitidos por la Oficina de la Presidencia de la República
 
 - [Ústava / Constitution](./documents/constitution)
 - [Zákon č. 1 / Law No. 1/25](./documents/law125)
