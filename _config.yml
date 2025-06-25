@@ -1,4 +1,4 @@
-title: false
+title: ""
 plugins:
   - jekyll-relative-links
   - jekyll-last-modified-at
