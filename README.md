@@ -1,1 +1,3 @@
-This repository serves as a online support platform for a LARP game.
+# Fictional Republic Official Documents
+
+Static Jekyll site with SHA‑256 hash + QR code for verification.
