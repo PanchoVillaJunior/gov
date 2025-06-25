@@ -1,4 +1,6 @@
-title: Fictional Republic Documents
+title: Certifikáty
+plugins:
+  - jekyll-relative-links
 markdown: kramdown
 permalink: pretty
 collections:
