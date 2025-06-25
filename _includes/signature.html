@@ -1,4 +1,14 @@
 <div style="margin-top:2em;">
   <img src="{{ '/assets/img/signature.png' | relative_url }}" alt="Signature" height="40"><br>
-  <span>Approved by / Schválil: Jan Novák, President</span>
+  <span>Schváleno prezidentem a spolupodepsáno (potvrzeno) kancléřem / Aprobado por el Presidente y refrendado por el Canciller.</span><br>
+  <small>
+    Last modified: 
+    <span>
+      {% if page.last_modified_at %}
+        {{ page.last_modified_at | date: "%Y-%m-%d %H:%M:%S %z" }}
+      {% else %}
+        {{ "now" | date: "%Y-%m-%d %H:%M:%S %z" }}
+      {% endif %}
+    </span>
+  </small>
 </div>

@@ -1,6 +1,6 @@
-title: Certifikáty
 plugins:
   - jekyll-relative-links
+  - jekyll-last-modified-at
 markdown: kramdown
 permalink: pretty
 collections:
