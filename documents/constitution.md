@@ -115,7 +115,7 @@ Tato ústava je nejvyšším zákonem republiky. Všechny ostatní zákony a na�
 
 ---
 
-# Constitution of the Free Zapatista Republic of Mexico ![🇬🇧](https://twemoji.maxcdn.com/2/svg/1f1ec-1f1e7.svg)
+# Constitution of the Free Zapatista Republic of Mexico
 
 **[🇨🇿 Česká verze nahoře](#ústava-svobodné-zapatistické-republiky-mexiko)**
 
