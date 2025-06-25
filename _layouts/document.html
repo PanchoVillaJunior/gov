@@ -29,6 +29,16 @@
                 <span id="doc-hash"></span>
             </div>
             <div id="qrcode" style="margin-top:1em;"></div>
+                <small>
+            Last modified: 
+            <span>
+            {% if page.last_modified_at %}
+                {{ page.last_modified_at | date: "%Y-%m-%d %H:%M:%S %z" }}
+            {% else %}
+                {{ "now" | date: "%Y-%m-%d %H:%M:%S %z" }}
+            {% endif %}
+            </span>
+        </small>
         </footer>
     </main>
     <script src="{{ '/assets/js/qrcode.min.js' | relative_url }}"></script>
