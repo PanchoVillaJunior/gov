@@ -32,9 +32,9 @@
                 Last modified: 
                 <span>
                 {% if page.last_modified_at %}
-                    {{ page.last_modified_at | date: "%Y-%m-%d %H:%M:%S %z" }}
+                    {{ page.last_modified_at | date: "%Y-%m-%d %H:%M:%S %z (GMT)" }}
                 {% else %}
-                    {{ "now" | date: "%Y-%m-%d %H:%M:%S %z" }}
+                    {{ "now" | date: "%Y-%m-%d %H:%M:%S %z (GMT)" }}
                 {% endif %}
                 </span>
             </div>
