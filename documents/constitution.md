@@ -88,9 +88,6 @@ Občané mají právo na ochranu svých tradic, jazyků a životního prostřed�
 
 *Komentář: Atmosférický doplněk zdůrazňující zapatistické hodnoty a umožňující řešení ekologických konfliktů.*
 
-**11. Festival Santa Muerte**  
-Každoročně se koná republikový festival solidarity a kulturní výměny mezi všemi komunitami.
-
 **12. Ochrana historie a paměti**  
 Každá komunita je povinna uchovávat svou historii a předávat ji budoucím generacím. Změny v historickém výkladu musí být kolektivně schváleny.
 
@@ -98,10 +95,10 @@ Každá komunita je povinna uchovávat svou historii a předávat ji budoucím g
 
 ## Článek IV: Závěrečná ustanovení
 
-**13. Změny ústavy**  
+**12. Změny ústavy**  
 Ústava může být změněna pouze souhlasem dvou třetin všech autonomních municipií vyjádřeným na lidových shromážděních.
 
-**14. Supremacie ústavy**  
+**13. Supremacie ústavy**  
 Tato ústava je nejvyšším zákonem republiky. Všechny ostatní zákony a nařízení jí musí odpovídat. 
 
 *Komentář: Závěrečná ustanovení zajišťují stabilitu ústavy při zachování možnosti demokratických změn prostřednictvím komunitních struktur, což odpovídá zapatistickému modelu rozhodování.*
@@ -190,20 +187,17 @@ Citizens have the right to protect their traditions, languages, and environment.
 
 *Note: Atmospheric addition emphasizing Zapatista values and enabling the resolution of ecological conflicts.*
 
-**11. Santa Muerte Festival**  
-An annual republican festival of solidarity and cultural exchange is held among all communities.
-
-**12. Protection of History and Memory**  
+**11. Protection of History and Memory**  
 Each community is obliged to preserve its history and pass it on to future generations. Changes in historical interpretation must be collectively approved.
 
 *Note: This clause adds atmosphere and enables in-game conflicts over historical interpretation.*
 
 ## Article IV: Final Provisions
 
-**13. Amendments to the Constitution**  
+**12. Amendments to the Constitution**  
 The constitution may be amended only by the consent of two-thirds of all autonomous municipalities expressed at people’s assemblies.
 
-**14. Supremacy of the Constitution**  
+**13. Supremacy of the Constitution**  
 This constitution is the supreme law of the republic. All other laws and regulations must conform to it.
 
 *Note: The final provisions ensure the stability of the constitution while maintaining the possibility of democratic changes through community structures, which corresponds to the Zapatista model of decision-making.*
