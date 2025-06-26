@@ -9,6 +9,8 @@
         body {
         /*   font-family: 'Segoe UI', sans-serif; 
              margin: 2em;  */
+            text-align: justify;
+            text-justify: inter-word;
         }
         footer {
             margin-top: 3em;
@@ -21,8 +23,7 @@
     {% include header.html %}
     <main>
         <article id="document-content">
-            text-align: justify;
-            text-justify: inter-word;
+
             {{ content }}
         </article>
         <footer>
