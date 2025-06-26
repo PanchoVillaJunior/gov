@@ -13,8 +13,6 @@ My, lidé Chiapasu, dědicové tisícileté kultury mayské civilizace a pokrač
 
 *Komentář: Preambule odkazuje na skutečné zapatistické heslo a propojuje mexickou revoluční tradici s mayskou kulturou. Tím vytváří autentickou atmosféru a zdůvodňuje legitimitu nového státu v očích jeho obyvatel.*
 
----
-
 ## Článek I: Základní principy vlády
 
 **1. Lid a hlava státu**  
@@ -48,8 +46,6 @@ Vládu lze rozpustit většinovým rozhodnutím Lidové rady, která se schází
 
 *Komentář: Efektivní kontrola ze strany lidových shromáždění vytváří neustálé politické napětí, ideální pro dynamické herní situace.*
 
----
-
 ## Článek II: Mobilizace a obranyschopnost
 
 **3. Mobilizace**  
@@ -66,8 +62,6 @@ Aktivní zálohy jsou dobrovolnické jednotky občanů, pravidelně cvičené k 
 Pobyt zahraničních vojsk je striktně zakázán s výjimkou krátkodobých misí schválených dvoutřetinovou většinou Lidové rady. Jejejich pobyt podléhá právnímu systému země.
 
 *Komentář: Vyjadřuje zapatistickou nedůvěru k cizím silám, umožňuje herní výjimky jen s jasným souhlasem.*
-
----
 
 ## Článek III: Práva a povinnosti občanů
 
@@ -102,8 +96,6 @@ Každá komunita je povinna uchovávat svou historii a předávat ji budoucím g
 
 *Komentář: Tato klauzule přidává atmosféru a možnosti řešení herních konfliktů kolem historických interpretací.*
 
----
-
 ## Článek IV: Závěrečná ustanovení
 
 **13. Změny ústavy**  
@@ -114,8 +106,6 @@ Tato ústava je nejvyšším zákonem republiky. Všechny ostatní zákony a na�
 
 *Komentář: Závěrečná ustanovení zajišťují stabilitu ústavy při zachování možnosti demokratických změn prostřednictvím komunitních struktur, což odpovídá zapatistickému modelu rozhodování.*
 
----
-
 # Constitution of the Free Zapatista Republic of Mexico
 
 **[🇨🇿 Česká verze nahoře](#ústava-svobodné-zapatistické-republiky-mexiko)**
@@ -124,8 +114,6 @@ Tato ústava je nejvyšším zákonem republiky. Všechny ostatní zákony a na�
 We, the people of Chiapas, heirs to the millennia-old culture of Mayan civilization and followers of Emiliano Zapata’s legacy, declare this constitution as the cornerstone of our free society. In the spirit of para todos todo, para nosotros nada – everything for everyone, nothing for ourselves – we found this republic on principles of democratic autonomy, collective decision-making, and resistance against oppression.
 
 *Note: The preamble references the real Zapatista motto and connects Mexican revolutionary tradition with Mayan culture, creating an authentic atmosphere and justifying the legitimacy of the new state in the eyes of its people.*
-
----
 
 ## Article I: Fundamental Principles of Government
 
@@ -160,8 +148,6 @@ The government may be dissolved by majority decision of the People’s Council, 
 
 *Note: Effective control by the people’s assemblies creates constant political tension, ideal for dynamic gameplay situations.*
 
----
-
 ## Article II: Mobilization and Defense Capability
 
 **3. Mobilization**  
@@ -178,8 +164,6 @@ Active reserves are volunteer units of citizens, regularly trained to defend the
 The presence of foreign troops is strictly prohibited except for short-term missions approved by a two-thirds majority of the People’s Council. Any such presence is subject to the country’s legal system.
 
 *Note: Expresses Zapatista distrust of foreign powers but allows in-game exceptions only with clear consent.*
-
----
 
 ## Article III: Rights and Duties of Citizens
 
@@ -214,8 +198,6 @@ Each community is obliged to preserve its history and pass it on to future gener
 
 *Note: This clause adds atmosphere and enables in-game conflicts over historical interpretation.*
 
----
-
 ## Article IV: Final Provisions
 
 **13. Amendments to the Constitution**  
@@ -225,5 +207,3 @@ The constitution may be amended only by the consent of two-thirds of all autonom
 This constitution is the supreme law of the republic. All other laws and regulations must conform to it.
 
 *Note: The final provisions ensure the stability of the constitution while maintaining the possibility of democratic changes through community structures, which corresponds to the Zapatista model of decision-making.*
-
----
