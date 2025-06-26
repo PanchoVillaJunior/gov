@@ -19,11 +19,12 @@ My, lidé Chiapasu, dědicové tisícileté kultury mayské civilizace a pokrač
 
 **1. Lid a hlava státu**  
 Lid je nejvyšší autoritou republiky. Prezident je pouze služebníkem lidu, voleným každé tři roky v celonárodním shromáždění. Hlava státu může být sesazena pouze pomocí ústavních postupů vyjmenovaných v následujících bodech.
+Nedílnou součástí moci je Lidová rada, která zastává roli vlády a pro potřeby ústavy oba pojmy jsou ekvivalentně zaměnitelné.
 
 *Komentář: Zapatisté silně zdůrazňují přímou demokracii a kolektivní rozhodování, což odráží tento bod.*
 
-**1a. Odvolání prezidenta hlasováním rady**  
-Prezident může být kdykoli odvolán dvoutřetinovou většinou Lidové rady (vlády), pokud rada dospěje k závěru, že prezident jedná v rozporu se zájmy lidu.
+**1a. Odvolání prezidenta hlasováním Lidové rady**  
+Prezident může být kdykoli odvolán dvoutřetinovou většinou Lidové rady, pokud rada dospěje k závěru, že prezident jedná v rozporu se zájmy lidu.
 
 *Komentář: Tato klauzule posiluje princip odpovědnosti prezidenta vůči kolektivu a umožňuje flexibilní řešení krizových situací.*
 
@@ -43,9 +44,9 @@ Prezident automaticky ztrácí legitimitu (tedy mandát), pokud není schopen ve
 *Komentář: Tato klauzule umožňuje rychle řešit vážné národní krize a zároveň reflektuje zapatistický důraz na suverenitu a teritoriální integritu.*
 
 **2. Rozpuštění vlády**  
-Vládu lze rozpustit většinovým rozhodnutím Lidové rady (vlády), která se schází pravidelně. Nová vláda musí být sestavena do 14 dnů od rozpuštění.
+Vládu lze rozpustit většinovým rozhodnutím Lidové rady, která se schází pravidelně. Nová vláda musí být sestavena do 14 dnů od rozpuštění.
 
-**Komentář: Efektivní kontrola ze strany lidových shromáždění vytváří neustálé politické napětí, ideální pro dynamické herní situace.*
+*Komentář: Efektivní kontrola ze strany lidových shromáždění vytváří neustálé politické napětí, ideální pro dynamické herní situace.*
 
 ---
 
@@ -62,7 +63,7 @@ Aktivní zálohy jsou dobrovolnické jednotky občanů, pravidelně cvičené k 
 *Komentář: Vhodné pro lokální dynamiku a posilující komunitní aspekt Zapatistů.*
 
 **5. Pobyt cizích vojsk**  
-Pobyt zahraničních vojsk je striktně zakázán s výjimkou krátkodobých misí schválených dvoutřetinovou většinou Lidové rady.
+Pobyt zahraničních vojsk je striktně zakázán s výjimkou krátkodobých misí schválených dvoutřetinovou většinou Lidové rady. Jejejich pobyt podléhá právnímu systému země.
 
 *Komentář: Vyjadřuje zapatistickou nedůvěru k cizím silám, umožňuje herní výjimky jen s jasným souhlasem.*
 
@@ -129,17 +130,18 @@ We, the people of Chiapas, heirs to the millennia-old culture of Mayan civilizat
 ## Article I: Fundamental Principles of Government
 
 **1. The People and the Head of State**  
-The people are the highest authority of the republic. The President is merely a servant of the people, elected every three years at a national assembly. The Head of State may only be removed by constitutional procedures enumerated below. 
+The people are the highest authority of the republic. The President is merely a servant of the people, elected every three years at a national assembly. The Head of State may only be removed by constitutional procedures enumerated below.
+An integral part of power is the People’s Council, which serves as the government, and for the purposes of this Constitution, both terms are interchangeable. 
 
 *Note: The Zapatistas strongly emphasize direct democracy and collective decision-making, reflected in this article.*
 
 **1a. Removal of the President by Council Vote**  
-The President may be removed at any time by a two-thirds majority of the People’s Council (government), if the Council concludes that the President acts against the interests of the people.
+The President may be removed at any time by a two-thirds majority of the People’s Council, if the Council concludes that the President acts against the interests of the people.
 
 *Note: This clause reinforces the principle of presidential accountability to the collective and allows flexible solutions in crisis situations.*
 
 **1b. Removal of the President for Treason**  
-If the Supreme Community Court, composed of representatives of the people previously confirmed by the People’s Council (government), finds the President guilty of treason, the President is automatically removed from office and an authorized tribunal appoints an interim head of state.
+If the Supreme Community Court, composed of representatives of the people previously confirmed by the People’s Council, finds the President guilty of treason, the President is automatically removed from office and an authorized tribunal appoints an interim head of state.
 
 *Note: Ensures legal protection of the republic against the gravest forms of treason and clearly defines consequences for effective gameplay.*
 
@@ -149,12 +151,12 @@ The President may be overthrown by a popular vote if at least 80% of citizens pa
 *Note: Emphasizes direct democratic will of the people and adds a significant element of collective responsibility in crisis situations.*
 
 **1d. Loss of Legitimacy in Case of Territorial Integrity Breach**  
-The President automatically loses legitimacy (i.e., mandate) if, in cooperation with the People’s Council (government), they are unable to ensure the territorial integrity of the republic.
+The President automatically loses legitimacy (i.e., mandate) if, in cooperation with the People’s Council, they are unable to ensure the territorial integrity of the republic.
 
 *Note: This clause allows quick response to serious national crises and reflects the Zapatista emphasis on sovereignty and territorial integrity.*
 
 **2. Dissolution of Government**  
-The government may be dissolved by majority decision of the People’s Council (government), which meets regularly. A new government must be formed within 14 days of dissolution.
+The government may be dissolved by majority decision of the People’s Council, which meets regularly. A new government must be formed within 14 days of dissolution.
 
 *Note: Effective control by the people’s assemblies creates constant political tension, ideal for dynamic gameplay situations.*
 
@@ -173,7 +175,7 @@ Active reserves are volunteer units of citizens, regularly trained to defend the
 *Note: Suitable for local dynamics and reinforcing the community aspect of the Zapatistas.*
 
 **5. Presence of Foreign Troops**  
-The presence of foreign troops is strictly prohibited except for short-term missions approved by a two-thirds majority of the People’s Council.
+The presence of foreign troops is strictly prohibited except for short-term missions approved by a two-thirds majority of the People’s Council. Any such presence is subject to the country’s legal system.
 
 *Note: Expresses Zapatista distrust of foreign powers but allows in-game exceptions only with clear consent.*
 
