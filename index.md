@@ -14,5 +14,5 @@ title: Official Documents Index
 
 A continuación se enumeran las leyes y decretos actualmente en vigor:
 
-- ⚖️ [Zákon číslo 1 / Ley núm 1/25](./documents/law125)
+- ⚖️ [Zákon číslo 1 - O přítomnosti a činnosti amerických bezpečnostních složek na území Svobodné zapatistické republiky Mexiko / on the Presence and Activities of U.S. Security Forces in the Free Zapatista ](./documents/law125)
 - 📄 [Vládní nařízení číslo 1 / Decreto gubernamental núm 1/25](./documents/order125)
