@@ -59,7 +59,7 @@ Aktivní zálohy jsou dobrovolnické jednotky občanů, pravidelně cvičené k 
 *Komentář: Vhodné pro lokální dynamiku a posilující komunitní aspekt Zapatistů.*
 
 **5. Pobyt cizích vojsk**  
-Pobyt zahraničních vojsk je striktně zakázán s výjimkou krátkodobých misí schválených dvoutřetinovou většinou Lidové rady. Jejejich pobyt podléhá právnímu systému země.
+Pobyt zahraničních vojsk je striktně zakázán s výjimkou krátkodobých misí schválených dvoutřetinovou většinou Lidové rady. Jejejich pobyt podléhá [právnímu systému země.](https://panchovillajunior.github.io/gov/documents/law125/)
 
 *Komentář: Vyjadřuje zapatistickou nedůvěru k cizím silám, umožňuje herní výjimky jen s jasným souhlasem.*
 
@@ -158,7 +158,7 @@ Active reserves are volunteer units of citizens, regularly trained to defend the
 *Note: Suitable for local dynamics and reinforcing the community aspect of the Zapatistas.*
 
 **5. Presence of Foreign Troops**  
-The presence of foreign troops is strictly prohibited except for short-term missions approved by a two-thirds majority of the People’s Council. Any such presence is subject to the country’s legal system.
+The presence of foreign troops is strictly prohibited except for short-term missions approved by a two-thirds majority of the People’s Council. Any such presence is subject to [the country’s legal system](https://panchovillajunior.github.io/gov/documents/law125/).
 
 *Note: Expresses Zapatista distrust of foreign powers but allows in-game exceptions only with clear consent.*
 
