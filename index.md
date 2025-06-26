@@ -14,6 +14,6 @@ title: Official Documents Index
 
 A continuación se enumeran las leyes y decretos actualmente en vigor:
 
-- ⚖️ [Zákon číslo 1 - O přítomnosti a činnosti amerických bezpečnostních složek na území Svobodné zapatistické republiky Mexiko / on the Presence and Activities of U.S. Security Forces in the Free Zapatista Republic of Mexico ](./documents/law125)
-- ⚖️ [Zákon číslo 2 - O novém finančním uspořádání Svobodné zapatistické republiky Mexiko / on the New Financial Framework of the Free Zapatista Republic of Mexico ](./documents/law225)
+- ⚖️ [Zákon číslo 1/25 - O přítomnosti a činnosti amerických bezpečnostních složek na území Svobodné zapatistické republiky Mexiko / on the Presence and Activities of U.S. Security Forces in the Free Zapatista Republic of Mexico ](./documents/law125)
+- ⚖️ [Zákon číslo 2/25 - O novém finančním uspořádání Svobodné zapatistické republiky Mexiko / on the New Financial Framework of the Free Zapatista Republic of Mexico ](./documents/law225)
 - 📄 [Vládní nařízení číslo 1 / Decreto gubernamental núm 1/25](./documents/order125)
