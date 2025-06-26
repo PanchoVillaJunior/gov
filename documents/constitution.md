@@ -16,7 +16,7 @@ My, lidé Chiapasu, dědicové tisícileté kultury mayské civilizace a pokrač
 ## Článek I: Základní principy vlády
 
 **1. Lid a hlava státu**  
-Lid je nejvyšší autoritou republiky. Prezident je pouze služebníkem lidu, voleným každé tři roky v celonárodním shromáždění. Hlava státu může být sesazena pouze pomocí ústavních postupů vyjmenovaných v následujících bodech.
+Lid je nejvyšší autoritou republiky. Prezident je pouze služebníkem lidu, voleným každé tři roky v celonárodním shromáždění. Hlava státu může být sesazena pouze pomocí ústavních postupů vyjmenovaných v následujících bodech, a to souběhem alespoň dvou bodů.
 Nedílnou součástí moci je Lidová rada, která zastává roli vlády a pro potřeby ústavy oba pojmy jsou ekvivalentně zaměnitelné.
 
 *Komentář: Zapatisté silně zdůrazňují přímou demokracii a kolektivní rozhodování, což odráží tento bod.*
@@ -27,17 +27,17 @@ Prezident může být kdykoli odvolán dvoutřetinovou většinou Lidové rady, 
 *Komentář: Tato klauzule posiluje princip odpovědnosti prezidenta vůči kolektivu a umožňuje flexibilní řešení krizových situací.*
 
 **1b. Odvolání prezidenta za vlastizradu**  
-Pokud Nejvyšší komunitní soud složený ze zástupců lidu předem potvrzených Lidovou radou (vládou) uzná prezidenta vinným z vlastizrady, je automaticky zbaven funkce a pověřený tribunál zajistí jmenování dočasné hlavy státu.
+Pokud Nejvyšší komunitní soud složený ze zástupců lidu předem potvrzených Lidovou radou uzná prezidenta vinným z vlastizrady, je automaticky zbaven funkce a pověřený tribunál zajistí jmenování dočasné hlavy státu.
 
 *Komentář: Zajišťuje právní ochranu republiky proti nejzávažnějším formám zrady a jasně definuje následky pro efektivní hru.*
 
 **1c. Odvolání prezidenta všelidovým hlasováním**  
-Prezident může být svržen všelidovým hlasováním, pokud se jej zúčastní nejméně 80 % občanů a nejméně 65 % hlasujících podpoří jeho odvolání.
+Prezident může být svržen všelidovým hlasováním (peticí), pokud se jej zúčastní nejméně 80 % občanů a nejméně 80 % hlasujících podpoří jeho odvolání.
 
 *Komentář: Zdůrazňuje přímou demokratickou vůli lidu a přidává významný prvek kolektivní odpovědnosti v krizových situacích.*
 
 **1d. Ztráta legitimity při narušení územní celistvosti**  
-Prezident automaticky ztrácí legitimitu (tedy mandát), pokud není schopen ve spolupráci s Lidovou radou (vládou) zajistit územní celistvost republiky.
+Prezident automaticky ztrácí legitimitu (tedy mandát), pokud není schopen ve spolupráci s Lidovou radou zajistit územní celistvost republiky.
 
 *Komentář: Tato klauzule umožňuje rychle řešit vážné národní krize a zároveň reflektuje zapatistický důraz na suverenitu a teritoriální integritu.*
 
@@ -115,7 +115,7 @@ We, the people of Chiapas, heirs to the millennia-old culture of Mayan civilizat
 ## Article I: Fundamental Principles of Government
 
 **1. The People and the Head of State**  
-The people are the highest authority of the republic. The President is merely a servant of the people, elected every three years at a national assembly. The Head of State may only be removed by constitutional procedures enumerated below.
+The people are the highest authority of the republic. The President is merely a servant of the people, elected every three years at a national assembly. The Head of State may only be removed by constitutional procedures enumerated below, and this is done by the coincidence of at least two of them.
 An integral part of power is the People’s Council, which serves as the government, and for the purposes of this Constitution, both terms are interchangeable. 
 
 *Note: The Zapatistas strongly emphasize direct democracy and collective decision-making, reflected in this article.*
@@ -131,7 +131,7 @@ If the Supreme Community Court, composed of representatives of the people previo
 *Note: Ensures legal protection of the republic against the gravest forms of treason and clearly defines consequences for effective gameplay.*
 
 **1c. Removal of the President by Popular Vote**  
-The President may be overthrown by a popular vote if at least 80% of citizens participate and at least 65% of those voting support the removal.
+The President may be overthrown by a popular vote (petition) if at least 80% of citizens participate and at least 80% of those voting support the removal.
 
 *Note: Emphasizes direct democratic will of the people and adds a significant element of collective responsibility in crisis situations.*
 
