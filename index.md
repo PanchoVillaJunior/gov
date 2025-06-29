@@ -3,7 +3,7 @@ title: Official Documents Index
 ---
 
 <p align="center">
-  <img src="/assets/img/header.png" alt="logo" height="200">
+  <img src="{{ '/assets/img/header.png' | relative_url }}" alt="Header" height="200">
 </p>
 
 # 🇲🇽 Documentos oficiales de la Oficina de la Presidencia de la República Libre Zapatista de México
