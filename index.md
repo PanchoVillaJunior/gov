@@ -12,7 +12,7 @@ title: Official Documents Index
 ## Constitución de la República Libre Zapatista de México
 
 - 🏛 [Ústava / Constitución](./documents/constitution)
-- 📜 [Dodatek číslo 1/25 / Enmienda núm 1/25](./documents/amendment125)
+- 📜 ~~[Dodatek číslo 1/25 / Enmienda núm 1/25](./documents/amendment125)~~
 
 ## 📚 Legislación aplicable
 
