@@ -84,7 +84,7 @@ Mezinárodní pozorovatelé a mírové mise mohou být pozvány pouze na základ
 Republika poskytuje azyl a podporu všem bojovníkům za svobodu a sociální spravedlnost.
 
 **10. Kulturní a ekologická práva**  
-Občané mají právo na ochranu svých tradic, jazyků a životního prostředí. Ekologické zdroje jsou kolektivním majetkem, jejich využití musí schválit komunita.
+Občané mají právo na ochranu svých tradic, jazyků a životního prostředí. Ekologické zdroje jsou kolektivním majetkem. To je reprezentováno státní firmou PEMEX, která spravuje těžbu a distribuci nafty a plynu, těženého na území Svobodné zapatistické republiky Mexiko.
 
 *Komentář: Atmosférický doplněk zdůrazňující zapatistické hodnoty a umožňující řešení ekologických konfliktů.*
 
