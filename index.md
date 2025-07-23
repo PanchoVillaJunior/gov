@@ -9,6 +9,11 @@ title: Official Documents Index
 # 🇲🇽 Documentos oficiales de la Oficina de la Presidencia de la República Libre Zapatista de México
 (Vše dostupné v češtině a angličtině 🇨🇿 / 🇬🇧 All available in Czech and English)
 
+## Asuntos diplomáticos
+
+- [AC-MX-25-25](./documents/DE_AC-MX-25-25_1)
+- [SES-EP-2024-118](./documents/US_SES-EP-2024-118_1)
+
 ## Constitución de la República Libre Zapatista de México
 
 - 🏛 [Ústava / Constitución](./documents/constitution)
