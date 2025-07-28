@@ -13,6 +13,12 @@ title: Official Documents Index
 
 - [AC-MX-25-25](./documents/DE_AC-MX-25-25_1)
 - [SES-EP-2024-118](./documents/US_SES-EP-2024-118_1)
+- [MX_SE-LF-PMX_1](./documents/MX_SE-LF-PMX_1.md)
+- [MX_SE-LF-CDS_1](./documents/MX_SE-LF-CDS_1.md)
+- [MX_SE-LF-CDT_1](./documents/MX_SE-LF-CDT_1.md)
+- [MX_SE-LF-GLF_1](./documents/MX_SE-LF-GLF_1.md)
+- [MX_SE-LF-LZT_1](./documents/MX_SE-LF-LZT_1.md)
+- [MX_SE-LF-SMJ_1](./documents/MX_SE-LF-SMJ_1.md)
 
 ## Constitución de la República Libre Zapatista de México
 
