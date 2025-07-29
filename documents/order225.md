@@ -64,6 +64,6 @@ layout: document
 - Assistance to the Mexican population beyond the boundaries of laws and rights.
 - Protection of individuals, property, businesses, and land.
 
-## 5. Entry into Force  
+## 5. Entry into Force  
 
 - This decree enters into force on the day of its promulgation.
