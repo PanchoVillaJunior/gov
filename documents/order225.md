@@ -6,7 +6,7 @@ layout: document
 
 # Nařízení č.2/25 - O působení a činnosti civilní složky armády Svobodné zapatistické republiky Mexiko Los Dorados
 
-**[🇬🇧 English version below](#decree-no-225--on-the-mission-and-activities-of-the-civilian-wing-of-the-army-of-the-free-zapatista-republic-of-mexico-los-dorados)
+**[🇬🇧 English version below](#decree-no-225--on-the-mission-and-activities-of-the-civilian-wing-of-the-army-of-the-free-zapatista-republic-of-mexico-los-dorados)**
 
 ## 1. Vymáhaní zákonů a nařízení Svobodné zapatistické republiky Mexiko
 
