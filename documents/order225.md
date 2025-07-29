@@ -32,7 +32,7 @@ layout: document
 - Pomoc mexickému obyvatelstvu nad rámec zákonů a práv.
 - Ochrana osob, majetku, podnikání a pozemků.
 
-## 5. Účinnost
+## 5. Účinnost
 
 - Toto nabývá účinnosti dnem vyhlášení.  
 
