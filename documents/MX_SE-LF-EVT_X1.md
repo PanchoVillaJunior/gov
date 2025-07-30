@@ -13,7 +13,7 @@ Odesláno: prostřednictvím kódu MX_SE-LF-EVT_X1
 
 ### Věc: Harmonogram slavnostního večera
 
-**[🇬🇧 English version below](#)**
+**[🇬🇧 English version below](#subject-schedule-of-the-ceremonial-evening)**
 
 Vážení,
 
@@ -33,7 +33,7 @@ Jménem El Presidente, prosím, buďte vítáni na slavnostním večeru.
 - Bezpečnost na místě bude organizována vojskem a smluvními partnery.
 - Z kapacitních důvodů se můžou delegace účastit samotných ceremonií a jednání v počtu 1 + 2.
 - Drobné občerstvení zajištěno.
-
+ <br />
 S úctou,
 
 Pancho Villa Junior <br />
@@ -42,7 +42,7 @@ Svobodná zapatistická republika Mexiko
 
 ### Subject: Schedule of the Ceremonial Evening
 
-**[🇨🇿 Česká verze nahoře](#)**  
+**[🇨🇿 Česká verze nahoře](#věc-harmonogram-slavnostního-večera)**  
 
 Dear guests,
 
@@ -62,7 +62,7 @@ On behalf of El Presidente, you are cordially invited to the ceremonial evening.
 - On-site security will be managed by the military and contracted partners.
 - Due to space limitations, each delegation may attend the ceremonies and meetings in a 1 + 2 format.
 - Light refreshments will be provided.
-
+ <br />
 Respectfully,
 
 Pancho Villa Junior <br />
