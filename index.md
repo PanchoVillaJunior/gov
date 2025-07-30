@@ -19,6 +19,7 @@ title: Official Documents Index
 - [MX_SE-LF-GLF_1](./documents/MX_SE-LF-GLF_1.md)
 - [MX_SE-LF-LZT_1](./documents/MX_SE-LF-LZT_1.md)
 - [MX_SE-LF-SMJ_1](./documents/MX_SE-LF-SMJ_1.md)
+- [MX_SE-LF-EVT_X1](./documents/MX_SE-LF-EVT_X1.md)
 
 ## Constitución de la República Libre Zapatista de México
 
