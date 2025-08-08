@@ -12,8 +12,11 @@ title: Official Documents Index
 ## Asuntos diplomáticos
 
 - [AC-MX-25-25](./documents/DE_AC-MX-25-25_1)
+- [AC-MX-25-26](./documents/DE_AC-MX-25-25_2)
 - [SES-EP-2024-118](./documents/US_SES-EP-2024-118_1)
 - [SES-EP-2024-119](./documents/US_SES-EP-2024-118_2)
+- [SES-EP-2024-120](./documents/US_SES-EP-2024-118_3)
+- [SES-EP-2024-121](./documents/US_SES-EP-2024-118_4)
 - [MX_SE-LF-PMX_1](./documents/MX_SE-LF-PMX_1.md)
 - [MX_SE-LF-CDS_1](./documents/MX_SE-LF-CDS_1.md)
 - [MX_SE-LF-CDT_1](./documents/MX_SE-LF-CDT_1.md)
