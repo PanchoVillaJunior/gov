@@ -39,3 +39,4 @@ A continuación se enumeran las leyes y decretos actualmente en vigor:
 - ⚖️ [Zákon č.3/25 - o státní bance Svobodné zapatistické republiky Mexiko / on the State Bank of the Free Zapatista Republic of Mexico ](./documents/law325)
 - 📄 [Vládní Nařízení č. 1/25 – O pořádání kulturních akcí na území Svobodné zapatistické republiky Mexiko / Decree No. 1/25 – On the Organization of Cultural Events in the Free Zapatista Republic of Mexico](./documents/order125)
 - 📄 [Vládní Nařízení č.2/25 - O působení a činnosti civilní složky armády Svobodné zapatistické republiky Mexiko Los Dorados / Decree No. 2/25 – On the Mission and Activities of the Civilian Wing of the Army of the Free Zapatista Republic of Mexico Los Dorados](./documents/order225.md)
+- 📄 [Vládní Nařízení č.3/25 - O všeobecné mobilizaci ozbrojených sil a podpůrných složek Svobodné zapatistické republiky Mexiko](./documents/order325.md)
