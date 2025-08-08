@@ -1,5 +1,5 @@
 ---
-title: Potvrzení jmenování nového velvyslance
+title: Informace o incidentu na hranici
 lang: cs-en
 layout: document
 ---
